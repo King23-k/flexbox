@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>M8 Flexbox Layout</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h2>Header Title</h2>
+<h3>Subtitle Goes Here</h3>
+</header>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Page 2</a></li>
+<li><a href="#">Page 3</a></li>
+<li><a href="#">Page 4</a></li>
+</ul>
+</nav>
+<main>
+<article>
+<h1>Article Title Goes Here</h1>
+<img src="M8_Pic.png" alt="Descriptive Alt Text">
+<p>Glorp blibber snorf wibble, zibble flibber wump snizz. Grobble wizzle flomp, drabble snoofer blibber wib. Snorfle zibble drobb wizz, flibber grobble snozz.</p>
+</article>
+<aside>
+<h2>A Little Aside Title</h2>
+<ol>
+<li>Blibber Snorf</li>
+<li>Wizzle Flomp</li>
+<li>Zibble Drobb</li>
+<li>Grobble Snozz</li>
+</ol>
+</aside>
+</main>
+<footer>
+<p><small>Snizzle wump drabble snoofer, blibber grobble wibble. Zibble flibber snozz drobb.</small></p>
+</footer>
+</body>
+</html>
