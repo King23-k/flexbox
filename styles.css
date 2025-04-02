@@ -5,6 +5,8 @@ nav ul {
   margin: 0;
   list-style-type: none;
   background-color: black;
+  justify-content: space-between;
+
 }
 
 nav ul li {
