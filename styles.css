@@ -9,6 +9,14 @@ nav ul {
 
 nav ul li {
     width: 20%;
+    text-align: center;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
 }
 
 main {
@@ -36,4 +44,6 @@ aside {
 
 footer {
     background-color: #ff99cc;
+    text-align: center;
+    padding: 10px;
 }
