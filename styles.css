@@ -35,7 +35,7 @@ article img {
 
 aside {
     width: 40%;
-    padding: 2.0202%;
+    
     max-width: 200px;
     min-height: 180px;
     background-color: #ffebc6;
@@ -45,5 +45,5 @@ aside {
 footer {
     background-color: #ff99cc;
     text-align: center;
-    padding: 10px;
+
 }
